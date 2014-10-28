@@ -10,7 +10,7 @@ namespace task1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world Git!");
+            Console.WriteLine("Hello world Git! And i will go on ");
         }
     }
 }
